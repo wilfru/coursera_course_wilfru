@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap_course",
+  "version": "1.0.0",
+  "description": "Revision course on Bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilfru/coursera_course_wilfru.git"
+  },
+  "author": "wilfru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilfru/coursera_course_wilfru/issues"
+  },
+  "homepage": "https://github.com/wilfru/coursera_course_wilfru#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
