@@ -4,6 +4,7 @@
   "description": "Revision course on Bootstrap",
   "main": "index.html",
   "scripts": {
+    "start": "lite-server src --verbose",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
