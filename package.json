@@ -5,6 +5,7 @@
   "main": "index.html",
   "scripts": {
     "start": "lite-server src --verbose",
+    "stop": "npm",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,12 @@
   "homepage": "https://github.com/wilfru/coursera_course_wilfru#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "@floating-ui/core": "^1.6.8",
+    "@floating-ui/vue": "^1.1.5",
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1"
   }
 }
